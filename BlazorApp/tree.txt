@@ -1,0 +1,68 @@
+.
+├── App.razor
+├── appsettings.Development.json
+├── appsettings.json
+├── bin
+│   └── Debug
+│       └── net5.0
+│           └── ref
+├── BlazorApp.csproj
+├── Data
+│   ├── WeatherForecast.cs
+│   └── WeatherForecastService.cs
+├── _Imports.razor
+├── obj
+│   ├── BlazorApp.csproj.nuget.dgspec.json
+│   ├── BlazorApp.csproj.nuget.g.props
+│   ├── BlazorApp.csproj.nuget.g.targets
+│   ├── Debug
+│   │   └── net5.0
+│   │       ├── BlazorApp.AssemblyInfo.cs
+│   │       ├── BlazorApp.AssemblyInfoInputs.cache
+│   │       ├── BlazorApp.assets.cache
+│   │       ├── BlazorApp.csproj.AssemblyReference.cache
+│   │       ├── BlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+│   │       └── ref
+│   ├── project.assets.json
+│   └── project.nuget.cache
+├── Pages
+│   ├── Counter.razor
+│   ├── Error.cshtml
+│   ├── Error.cshtml.cs
+│   ├── FetchData.razor
+│   ├── _Host.cshtml
+│   └── Index.razor
+├── Program.cs
+├── Properties
+│   └── launchSettings.json
+├── README.md
+├── Shared
+│   ├── MainLayout.razor
+│   ├── MainLayout.razor.css
+│   ├── NavMenu.razor
+│   ├── NavMenu.razor.css
+│   └── SurveyPrompt.razor
+├── Startup.cs
+├── tree.txt
+└── wwwroot
+    ├── css
+    │   ├── bootstrap
+    │   │   ├── bootstrap.min.css
+    │   │   └── bootstrap.min.css.map
+    │   ├── open-iconic
+    │   │   ├── font
+    │   │   │   ├── css
+    │   │   │   │   └── open-iconic-bootstrap.min.css
+    │   │   │   └── fonts
+    │   │   │       ├── open-iconic.eot
+    │   │   │       ├── open-iconic.otf
+    │   │   │       ├── open-iconic.svg
+    │   │   │       ├── open-iconic.ttf
+    │   │   │       └── open-iconic.woff
+    │   │   ├── FONT-LICENSE
+    │   │   ├── ICON-LICENSE
+    │   │   └── README.md
+    │   └── site.css
+    └── favicon.ico
+
+19 directories, 46 files
